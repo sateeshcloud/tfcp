@@ -1,0 +1,32 @@
+{
+  "first_name" : "Aamir",
+  "last_name" : "Shahzad",
+  "location" : "Charlott NC",
+  "Children" : [
+    {
+      "name" : "Haider",
+      "age" : 8
+    },
+    {
+      "name" : "Raza",
+      "age" : 9
+    }
+  ],
+  "social_media" : [
+    {
+      "description" : "twitter",
+      "link" : "https://twitter.com/TechbrothersIT
+"
+    },
+    {
+      "description" : "facebook",
+      "link" : "https://www.facebook.com/TechbrothersIT
+"
+    },
+    {
+      "description" : "github",
+      "link" : "https://github.com/TechbrothersIT
+"
+    }
+  ]
+}

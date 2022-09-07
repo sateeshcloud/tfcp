@@ -1,0 +1,50 @@
+[
+    {"id":"1",
+    "products":[{"name":"Mobile", "brand":"samsung","os":"andorid"}
+
+        ],
+        "price range" : "5000-25000"
+    
+    },
+
+    {"id":"2",
+        "products":[{"name":"Mobile", "brand":"Apple","os":"Apple"}
+    
+            ],
+            "price range" : "25000-50000"
+        
+    },
+    {"id":"3",
+            "products":[{"name":"Laptops", "brand":"MI","os":"Windows"}
+        
+                ],
+                "price range" : "25000-50000"
+            
+    },
+    {"id":"4",
+                "products":[{"name":"TV", "brand":"videocon","os":"Windows"}
+            
+                    ],
+                    "price range" : "25000-50000"
+                
+    },
+    {"id":"5",
+                    "products":[{"name":"bottle", "brand":"tata","os":"noos"}
+                
+                        ],
+                        "price range" : "25000-50000"
+    }                    
+                    
+                                
+
+
+
+
+
+
+
+
+
+
+
+]

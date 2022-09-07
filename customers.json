@@ -1,0 +1,74 @@
+
+  [
+      {
+        "userId": 1,
+        "firstName": "Krish",
+        "lastName": "Lee",
+        "phoneNumber": "123456",
+        "emailAddress": "krish.lee@learningcontainer.com"
+      },
+      {
+        "userId": 2,
+        "firstName": "racks",
+        "lastName": "jacson",
+        "phoneNumber": "123456",
+        "emailAddress": "racks.jacson@learningcontainer.com"
+      },
+      {
+        "userId": 3,
+        "firstName": "denial",
+        "lastName": "roast",
+        "phoneNumber": "33333333",
+        "emailAddress": "denial.roast@learningcontainer.com"
+      },
+      {
+        "userId": 4,
+        "firstName": "devid",
+        "lastName": "neo",
+        "phoneNumber": "222222222",
+        "emailAddress": "devid.neo@learningcontainer.com"
+      },
+      {
+        "userId": 5,
+        "firstName": "jone",
+        "lastName": "mac",
+        "phoneNumber": "111111111",
+        "emailAddress": "jone.mac@learningcontainer.com"
+      },
+      {
+        "userId": 6,
+        "firstName": "Krishna",
+        "lastName": "Lima",
+        "phoneNumber": "908764567",
+        "emailAddress": "krish.lee@levlupedu.net"
+      },
+      {
+        "userId": 7,
+        "firstName": "rakesh",
+        "lastName": "jack",
+        "phoneNumber": "54789008",
+        "emailAddress": "racks.jacson@levlupedu.net"
+      },
+      {
+        "userId": 8,
+        "firstName": "danny",
+        "lastName": "rose",
+        "phoneNumber": "98745678",
+        "emailAddress": "denial.roast@levlupedu.net"
+      },
+      {
+        "userId": 9,
+        "firstName": "dennis",
+        "lastName": "neonick",
+        "phoneNumber": "9876345676",
+        "emailAddress": "devid.neo@levlupedu.net"
+      },
+      {
+        "userId": 10,
+        "firstName": "jim",
+        "lastName": "mach",
+        "phoneNumber":"78981365437",
+        "emailAddress": "jone.mac@levlupedu.net"
+      }
+    ]
+  
